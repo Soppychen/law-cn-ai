@@ -108,9 +108,3 @@ pnpm dev
 
     此文件由 ChatGPT 提供翻译
     
-   
-   
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Soppychen/law-cn-ai&type=Date)](https://star-history.com/#Soppychen/law-cn-ai&Date)
-
